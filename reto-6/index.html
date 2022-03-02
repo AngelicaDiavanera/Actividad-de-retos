@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reto 6</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <p>Reto 6: Programar un selector avatar</p>
+    <form id="formulario-avatar">
+      <div>
+        <label>Nombre y apellido:</label>
+        <input type="text" id="full-name-input" />
+      </div>
+      <div>
+        <label>Email</label>
+        <input type="text" id="email-input" />
+      </div>
+      <label>Foto:</label>
+      <select name="foto" id="select-avatar">
+        <option value="">seleciona el avatar</option>
+        <option value="imgs/will-smith.png">Will</option>
+        <option value="imgs/Jennifer-Aniston.png">Jennifer</option>
+        <option value="imgs/keanu-reeves.png">Keanu</option>
+        <option value="imgs/scarlet-johansson.png">Scarlett</option>
+        <option value="imgs/johnny-depp.png">Johnny</option>
+      </select>
+    </form>
+    <div id="box"></div>
+    <p id="full-name"></p>
+    <p id="email"></p>
+  </body>
+  <script src="script.js"></script>
+</html>

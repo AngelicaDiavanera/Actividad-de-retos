@@ -1,0 +1,36 @@
+#box-1 {
+  background: gray;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#box-2 {
+  background: gray;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#box-3 {
+  background: gray;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#box-4 {
+  background: gray;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

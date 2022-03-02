@@ -1,0 +1,15 @@
+#box {
+  background: gray;
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  background-size: cover;
+  background-position: center;
+}

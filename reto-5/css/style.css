@@ -1,0 +1,11 @@
+#box {
+  background: gray;
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+}
